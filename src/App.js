@@ -7,6 +7,7 @@ function App() {
       <Button variant="contained" color="primary">
         My MUI Button
       </Button>
+      <MyComponent />
     </div>
   );
 }
