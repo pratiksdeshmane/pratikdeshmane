@@ -1,5 +1,6 @@
 import React from 'react';
 import { Button } from '@mui/material';
+import Home from './components/Home';
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
       <Button variant="contained" color="primary">
         My MUI Button
       </Button>
-      <MyComponent />
+      <Home/>
     </div>
   );
 }

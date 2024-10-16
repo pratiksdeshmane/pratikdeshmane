@@ -1,7 +1,7 @@
 // src/components/MyComponent.js
 import React from 'react';
 
-const MyComponent = () => {
+const Home = () => {
   return (
     <div>
       <h1>Hello from MyComponent!</h1>
@@ -9,4 +9,4 @@ const MyComponent = () => {
   );
 };
 
-export default MyComponent;
+export default Home;
